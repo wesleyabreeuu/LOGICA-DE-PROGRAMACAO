@@ -1,0 +1,1 @@
+// Os erros do código descrito são que o inteiro não poder ter numero com virgula. O segundo é que o número real está declarado entre aspas, algo que só seria necessário a uma cadeia.
